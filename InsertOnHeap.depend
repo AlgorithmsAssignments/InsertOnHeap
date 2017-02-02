@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1486054978 source:/home/turupawn/Clases/Analisis/6 - Insert on Heap/Test.cpp
+	"Test.h"
+
+1486075685 /home/turupawn/Clases/Analisis/6 - Insert on Heap/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1486075677 source:/home/turupawn/Clases/Analisis/6 - Insert on Heap/main.cpp
+	"Test.h"
+	<iostream>
+
